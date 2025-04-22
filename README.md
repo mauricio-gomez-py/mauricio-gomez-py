@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/mauricio-alejandro-gomez-araya/**
 
-- 📄 Know about my experiences [Vicepresident, Student's Union of Mining Engineering - ULS; Teaching assistant, "Project Open Pit Mining" Course]
+- 📄 Know about my experiences [Vicepresident, Student's Union of Mining Engineering - ULS; Teaching assistant, "Open Pit Mining Project" Course]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
