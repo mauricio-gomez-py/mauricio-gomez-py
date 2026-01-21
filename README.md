@@ -1,17 +1,12 @@
-<h1 align="center">Hi 👋, I'm Mauricio Gomez</h1>
+<h1 align="center">Hi, I'm Mauricio Gomez</h1>
 <h3 align="center">I am a Mining Engineer from Chile!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mauricio-gomez-py&label=Profile%20views&color=0e75b6&style=flat" alt="mauricio-gomez-py" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mauricio-gomez-py" alt="mauricio-gomez-py" /></a> </p>
 
-- 🔭 I’m currently working on **exploratory data analysis**
-
-- 🌱 I’m currently learning **AI, Machine Learning, SQL, Power BI**
 
 - 📫 How to reach me **https://www.linkedin.com/in/mauricio-alejandro-gomez-araya/**
-
-- 📄 Know about my experiences [Vicepresident, Student's Union of Mining Engineering - ULS; Teaching assistant, "Open Pit Mining Project" Course]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
