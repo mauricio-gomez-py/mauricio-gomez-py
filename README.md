@@ -1,5 +1,3 @@
-# Hola, soy Mauricio Gómez
-
 Ingeniero Civil de Minas | aprendiendo sobre AI y Data Science
 
 <p align="left">
