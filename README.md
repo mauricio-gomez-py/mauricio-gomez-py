@@ -1,4 +1,4 @@
-Ingeniero Civil de Minas | aprendiendo sobre AI y Data Science
+Ingeniero Civil de Minas | AI y Data Science | En constante aprendizaje
 
 <p align="left">
   <a href="https://linkedin.com/in/mauricio-alejandro-gomez-araya"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
